@@ -1,0 +1,28 @@
+.sidebar{
+    background-color: #1F2535;
+    width: 20%;
+    height: 100vh;
+    padding-top: 100px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+ul li a{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+ul li svg{
+    color: #fff;
+    font-size: 20px;
+}

@@ -1,0 +1,30 @@
+.category-list {
+    background-color: #ca1016;
+}
+.category-list a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.category-all{
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    scrollbar-width: none;  
+    -ms-overflow-style: none;  /* IE and Edge */
+
+}
+
+.category-item {
+    width: 10%;
+    padding: 0 20px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: green;
+}

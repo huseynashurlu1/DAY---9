@@ -1,0 +1,16 @@
+.item-images .top img{
+    width: 100%;
+    height: 350px;
+}
+
+.item-images .bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.item-images .bottom img{
+    width: 22%;
+}

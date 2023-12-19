@@ -1,0 +1,15 @@
+#Contact{
+    padding: 3rem 0;
+}
+
+.form-item{
+    margin-bottom: 20px;
+}
+
+.form-item label{
+    font-size: 13px;
+}
+
+.form-item input{
+    font-size: 14px;
+}
